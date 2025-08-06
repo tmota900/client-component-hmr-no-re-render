@@ -1,3 +1,3 @@
 export function FunctionTest() {
-  return "FunctionTest12313";
+  return "FunctionTest";
 }
